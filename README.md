@@ -1,7 +1,7 @@
 # onlineEgitimPlatformu
 <h1> Online Yazılım Eğitim Platformu, alanında uzman eğitmenler yardımıyla kendinizi geliştirin!</h1>
 
-#Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 -HTML
 -CSS
 -PHP
